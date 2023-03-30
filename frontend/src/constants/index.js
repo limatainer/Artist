@@ -4,20 +4,24 @@ export const navigation = [
     title: "Home",
   },
   {
-    id: "about",
-    title: "Sobre",
+    id: "gallery",
+    title: "Gallery",
   },
   {
-    id: "contato",
-    title: "Contato",
+    id: "testimonial",
+    title: "Testimonial",
   },
   {
-    id: "services",
-    title: "Serviços",
+    id: "artist",
+    title: "Profiles",
   },
   {
-    id: "portfolio",
-    title: "Portfolio",
+    id: "faq",
+    title: "Faq",
+  },
+  {
+    id: "contact",
+    title: "Contact",
   },
   
 ];

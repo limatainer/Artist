@@ -1,17 +1,7 @@
-import Header from './components/Header';
-import Presentation from './components/Presentation';
-import Gallery from './components/Gallery';
-import Footer from './components/Footer';
+import Home from './Pages/Home';
 
 function App() {
-  return (
-    <>
-      <Header />
-      <Presentation />
-      <Gallery />
-      <Footer />
-    </>
-  );
+  return <Home />;
 }
 
 export default App;
