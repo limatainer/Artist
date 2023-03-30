@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Testimonial() {
   return (
-    <section className="my-8">
+    <section id="testimonial" className="my-8">
       <div
         className="container mx-auto flex flex-col items-center pb-6
    mb-4 md:p-10 md:px-12"
@@ -41,7 +41,7 @@ export default function Testimonial() {
             </svg>
           </div>
           <span className="w-12 h-1 my-2 rounded-lg "></span>
-          <p>Letícia, Rede Globo</p>
+          <p>Letícia, EstrelasCO</p>
         </div>
         <div className="flex flex-col items-center max-w-lg mx-12 lg:mx-0">
           <div className="relative text-center">
@@ -79,7 +79,7 @@ export default function Testimonial() {
             </svg>
           </div>
           <span className="w-12 h-1 my-2 rounded-lg "></span>
-          <p>Luana, Go Pro</p>
+          <p>Luana, ArteTE</p>
         </div>
       </div>
     </section>

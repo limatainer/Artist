@@ -5,15 +5,15 @@ export const navigation = [
   },
   {
     id: "gallery",
-    title: "Gallery",
+    title: "Galeria",
   },
   {
-    id: "testimonial",
-    title: "Testimonial",
+    id: "estrelas",
+    title: "Estrelas",
   },
   {
     id: "artist",
-    title: "Profiles",
+    title: "Perfis",
   },
   {
     id: "faq",
@@ -21,7 +21,7 @@ export const navigation = [
   },
   {
     id: "contact",
-    title: "Contact",
+    title: "Contato",
   },
   
 ];

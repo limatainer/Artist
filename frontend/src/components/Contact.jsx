@@ -29,7 +29,7 @@ export default function Contact() {
   };
 
   return (
-    <section className="py-6 mt-4">
+    <section id="contact" className="py-6 mt-4">
       <div className="grid max-w-6xl grid-cols-1 px-6 mx-auto lg:px-8 md:grid-cols-2 md:divide-x">
         <div className="py-6 md:py-0 md:px-6">
           <h1 className="text-4xl font-bold">Entre em Contato</h1>

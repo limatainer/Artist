@@ -2,7 +2,7 @@ import React from 'react';
 import Menina from '/assets/img/aliakbar.jpg';
 export default function Profile() {
   return (
-    <div className="relative p-4 bg-white">
+    <div id="artist" className="relative p-4 bg-white">
       <div className="lg:grid lg:grid-flow-row-dense lg:grid-cols-2 lg:gap-12 lg:items-center">
         <div className="lg:col-start-2 md:pl-20">
           <h4 className="text-2xl font-extrabold leading-8 tracking-tight text-gray-900 sm:leading-9">

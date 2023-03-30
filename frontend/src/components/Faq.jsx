@@ -2,7 +2,10 @@ import React from 'react';
 
 export default function Faq() {
   return (
-    <div className="container flex flex-col justify-center p-4 mx-auto md:p-8">
+    <div
+      id="faq"
+      className="container flex flex-col justify-center p-4 mx-auto md:p-8"
+    >
       <p className="p-2 text-sm font-medium tracking-wider text-center uppercase">
         Como funciona
       </p>

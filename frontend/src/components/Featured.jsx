@@ -5,7 +5,7 @@ import Carlos from '/assets/img/carlos.jpg';
 import Muham from '/assets/img/muham.jpg';
 export default function Featured() {
   return (
-    <div className="py-20">
+    <div id="estrelas" className="py-20">
       <div className="xl:container mx-auto px-6 md:px-12">
         <div className="text-center mb-16 ">
           <h2
