@@ -6,7 +6,7 @@ import {
   Contact,
   Faq,
   Testimonial,
-  ChatBot,
+  Chatbot,
   ReturnToTopButton,
   Footer,
 } from '../components';
@@ -21,7 +21,7 @@ export default function Home() {
       <Testimonial />
       <Contact />
       <Faq />
-      <ChatBot />
+      <Chatbot />
       <ReturnToTopButton />
       <Footer />
     </>

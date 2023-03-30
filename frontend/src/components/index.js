@@ -7,7 +7,7 @@ import Faq from './Faq'
 import Profile from './Profile'
 import Testimonial from './Testimonial'
 import Featured from './Featured'
-import ChatBot from './ChatBot'
+import Chatbot from './Chatbot'
 import ReturnToTopButton from './ReturnToTopButton'
 
 export {
@@ -20,6 +20,6 @@ export {
   Profile,
   Testimonial,
   Featured,
-  ChatBot,
+  Chatbot,
   ReturnToTopButton
 }
