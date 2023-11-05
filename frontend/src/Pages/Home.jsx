@@ -2,6 +2,7 @@ import {
   Header,
   Presentation,
   Gallery,
+  ScrollDownButton,
   Featured,
   Contact,
   Faq,
@@ -23,6 +24,7 @@ export default function Home() {
       <Faq />
       <Chatbot />
       <ReturnToTopButton />
+      <ScrollDownButton />
       <Footer />
     </>
   );

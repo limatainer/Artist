@@ -3,6 +3,7 @@ import Bunuelo from '/assets/img/bunuelo.jpg';
 import Craig from '/assets/img/craig.jpg';
 import Emily from '/assets/img/emily.jpg';
 import Mateo from '/assets/img/mateo.jpg';
+
 export default function Presentation() {
   return (
     <div className="relative max-w-screen-xl p-4 px-4 mx-auto bg-white m:px-6 lg:px-8 py-26 lg:mt-20">

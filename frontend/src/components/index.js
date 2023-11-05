@@ -9,10 +9,13 @@ import Testimonial from './Testimonial'
 import Featured from './Featured'
 import Chatbot from './Chatbot'
 import ReturnToTopButton from './ReturnToTopButton'
+import ScrollDownButton from './ScrollDownButton'
+
 
 export {
   Header,
   Presentation,
+  ScrollDownButton,
   Footer,
   Contact,
   Faq,
