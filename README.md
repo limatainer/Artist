@@ -1,54 +1,87 @@
-### Hi there 👩🏻‍💻
-
-This is a concept for a landing page project that currently is under contruction
-
-Feel free to star and fork it if you like to colab too
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F6F753&width=700&lines=Hello%2C+this+is+Mariana+Lima;I'm+a+FullStack+Web+Developer))](https://git.io/typing-svg)
+### Hi dev 👩🏻‍💻
 
 
-## Documentação de cores
+<h1 align="center">
+  <br>
+  <a href="https://images.pexels.com/photos/965345/pexels-photo-965345.jpeg"><img src="https://images.pexels.com/photos/965345/pexels-photo-965345.jpeg" alt="Coding" width="200"></a>
+  <br>
+  Artist portfolio landing page
+  <br>
+</h1>
 
-| Cor               | Hexadecimal                                                |
-| ----------------- | ---------------------------------------------------------------- |
-| Cor exemplo       | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
-| Cor exemplo       | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
-| Cor exemplo       | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
-| Cor exemplo       | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
+<h4 align="center">This page was built using Vite ReactJS <a href="https://vitejs.dev" target="_blank">Vite</a>.</h4>
 
+<p align="center">
+  <a href="https://badge.fury.io/js/react">ReactJS<img src="https://badge.fury.io/js/react.svg" alt="npm version" height="18"></a>
+  <a href="https://badge.fury.io/js/vite">Vite<img src="https://badge.fury.io/js/vite.svg" alt="npm version" height="18"></a>
+</p>
 
-## Rodando localmente
+<p align="center">
+  <a href="#key-features">Key Features</a> •
+  <a href="#how-to-use">How To Use</a> •
+  <a href="#download">Download</a> •
+  <a href="#credits">Credits</a> •
+  <a href="#related">Related</a> •
+  <a href="#license">License</a>
+</p>
 
-Clone o projeto
-
-```bash
-  git clone git@github.com:limatainer/Artist.git
-```
-
-Entre no diretório do projeto
-
-```bash
-  cd frontend
-```
-
-Instale as dependências
-
-```bash
-  yarn
-```
-
-Run
-```bash
-  yarn run dev
-```
-
-
-## Stack utilizada
-
-**Front-end:** ReactJS, Vite, TailwindCSS
-
-**Back-end:** under construction
-
+![screenshot](frontend/gif_artist.gif)
 
 ## Objective
 
-This project is a Lima.Codes initiative to be used in our portfolio templates
+This is a web design page concept, part of Lima Codes design projects
 
+## Key Features
+
+* Whatsapp redirect
+* Form integrated with google sheets
+* Go to page top shotcut
+* Tailwind Css styled
+* Lazy loading
+* React Icons
+* CSS Modules
+* JS Indexation
+
+## How To Use
+
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+
+```bash
+# Clone this repository
+$ git clone git@github.com:limatainer/Artist.git
+
+# Go into the repository
+$ cd frontend
+
+# Install dependencies
+$ yarn
+
+# Run the app
+$ yarn run dev
+```
+
+> **Note**
+> React version is ^18 and Vite is ^4
+
+
+## Support
+
+<a href="https://www.buymeacoffee.com/limacodes" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+<p>Or</p> 
+
+<a href="https://www.patreon.com/limacodes">
+	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+</a>
+
+
+## License
+
+MIT
+
+---
+## Credits
+
+This readme is based on a template from uses the following open source packages:
+> GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
